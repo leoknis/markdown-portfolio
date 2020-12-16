@@ -1,5 +1,2 @@
 #Leo
 
-##Git
-
-###Markdown
